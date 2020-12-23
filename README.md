@@ -10,4 +10,4 @@
 
 1. 使用microsoft azure
 2. 使用keras.applications.inception_v3
-   (參考：https://blog.toright.com/posts/6725/google-colab-free-gpu-ai-train.html)
+   (參考：https://www.itread01.com/content/1549244008.html)
