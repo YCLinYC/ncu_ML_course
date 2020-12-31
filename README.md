@@ -15,4 +15,4 @@
 1. main.ipynb： 主程式
 2. inception layers.txt： 查看inception_v3層數
 3. grab_plots_from_here.ipynb： 翻出來的舊程式，讀資料方式會占用大量RAM，可以copy繪圖
-4. Moving_img_to_train_test_val.ipynb： train, validation, test split into different folder
+4. Moving_img_to_train_test_val.ipynb： Split all images into train(80%), validation(10%), test(10%) folders.
