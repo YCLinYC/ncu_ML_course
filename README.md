@@ -8,7 +8,11 @@
 
 # 準備方式
 
-使用keras.applications.inception_v3(參考：https://www.itread01.com/content/1549244008.html)
+使用keras.applications.inception_v3
+參考：
+1. https://www.itread01.com/content/1549244008.html
+2. https://keras.io/api/applications/
+3. 其他註解在main中
 
 # 說明
 
