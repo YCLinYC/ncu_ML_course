@@ -12,7 +12,7 @@
 參考：
 1. https://www.itread01.com/content/1549244008.html
 2. https://keras.io/api/applications/
-3. 其他註解在main中
+3. 其他註解在main.ipynb中
 
 # 說明
 
