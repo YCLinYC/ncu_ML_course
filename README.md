@@ -22,8 +22,9 @@
 
 # 準備方式
 
-使用inception_v3做transfer learning  
-資料集來源：https://www.kaggle.com/kmader/food41
+1. 使用inception_v3做transfer learning  
+2. 資料集來源：https://www.kaggle.com/kmader/food41  
+(這裡有其他人針對這筆資料的處裡，有興趣可以參考：https://www.kaggle.com/kmader/food41/notebooks)
 
 main.ipynb參考：
 1. https://www.itread01.com/content/1549244008.html
