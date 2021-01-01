@@ -10,7 +10,7 @@
 
 # 本程式目標
 
-以inception_v3做transfer learning辨識101種食物，資料集共101000張圖片  
+以inception_v3做transfer learning，辨識101種食物，資料集共101000張圖片  
 每種食物有1000張圖片，其中800張作為training資料、100張做為validation資料、100張作為testing資料
 
 # 成果
