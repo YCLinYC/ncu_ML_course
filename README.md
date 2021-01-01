@@ -8,11 +8,13 @@
 
 # 準備方式
 
-使用keras.applications.inception_v3
-參考：
+main.ipynb參考：
 1. https://www.itread01.com/content/1549244008.html
 2. https://keras.io/api/applications/
 3. 其他註解在main.ipynb中
+
+其他程式參考：
+keras、tensorflow官方文件、stackoverflow問答
 
 # 說明
 
