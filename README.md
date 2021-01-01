@@ -6,11 +6,12 @@
 
 # 目標
 
-辨識101種食物，資料集共101000張圖片，每種食物有1000張圖片，其中800張作為training資料、100張做為validation資料、100張作為testing資料
+辨識101種食物，資料集共101000張圖片  
+每種食物有1000張圖片，其中800張作為training資料、100張做為validation資料、100張作為testing資料
 
 # 成果
 
-跑了2個epoch，loss還在下降，但由時間有限，沒有繼續跑更多epoch、甚至fine tuning
+跑了2個epoch，loss還在下降，但由時間有限，沒有繼續跑更多epoch、甚至fine tuning  
 最後成果是56% accuracy
 
 # 準備方式
