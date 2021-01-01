@@ -13,7 +13,7 @@
 
 1. 只跑了2個epoch，loss還在下降、accuracy還有上升趨勢，但由於時間有限，沒有繼續跑更多epoch、甚至fine tuning  
 2. 最後成果是56% accuracy (隨便猜的話accuracy是1%)
-3. 歡迎參考 wrong_predictions.ipynb ，裡面的圖片的正確標籤都是蘋果派，看看它預測成什麼食物
+3. 歡迎參考 prediction_demo_apple_pie_only.ipynb ，裡面的圖片的正確標籤都是蘋果派，看看它預測成什麼食物
 
 # 準備方式
 
@@ -34,3 +34,4 @@ keras、tensorflow官方文件、stackoverflow問答
 2. inception layers.txt： 解凍inception_v3時察看層數
 3. Moving_img_to_train_test_val.ipynb： Split all images into train(80%), validation(10%), test(10%) folders.
 4. make_prediction.ipynb： 對test dataset做預測，讀取model.h5、輸出預測結果、輸出confusion matrix圖、輸出accuracy
+5. prediction_demo_apple_pie_only.ipynb： 看看這些"蘋果派"
