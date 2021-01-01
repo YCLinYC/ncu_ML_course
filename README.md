@@ -8,6 +8,8 @@
 
 # 準備方式
 
+資料來源：https://www.kaggle.com/kmader/food41
+
 main.ipynb參考：
 1. https://www.itread01.com/content/1549244008.html
 2. https://keras.io/api/applications/
