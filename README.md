@@ -31,7 +31,7 @@ keras、tensorflow官方文件、stackoverflow問答
 # 說明
 
 1. main.ipynb： training，輸出model.h5(包括整個模型和其訓練完的權重)
-2. inception layers.txt： 解凍inception_v3時察看層數
+2. inception layers.txt： 解凍inception_v3時查看層數
 3. Moving_img_to_train_test_val.ipynb： Split all images into train(80%), validation(10%), test(10%) folders.
 4. make_prediction.ipynb： 對test dataset做預測，讀取model.h5、輸出預測結果、輸出confusion matrix圖、輸出accuracy
 5. prediction_demo_apple_pie_only.ipynb： 看看這些"蘋果派"
