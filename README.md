@@ -1,10 +1,17 @@
 # 機器學習通識_期末報告
 
-### Due date
-2021/1/4
+# Team member
 
-### Team member
 陳佑宏, 嚴毅澤, 黃昱東, 林昱辰
+
+# 目標
+
+辨識101種食物，每種食物有1000張圖片，其中800張作為training資料、100張做為validation資料、100張作為testing資料
+
+# 成果
+
+跑了2個epoch，loss還在下降，但由時間有限，沒有繼續跑更多epoch、甚至fine tuning
+最後成果是56% accuracy
 
 # 準備方式
 
