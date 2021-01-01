@@ -22,6 +22,5 @@ keras、tensorflow官方文件、stackoverflow問答
 
 1. main.ipynb： 主程式，training，輸出model.h5(包括整個模型和其訓練完的權重)
 2. inception layers.txt： 解凍inception_v3時察看層數
-3. grab_plots_from_here.ipynb： 翻出來的舊程式，讀資料方式會占用大量RAM，可以copy繪圖部分
-4. Moving_img_to_train_test_val.ipynb： Split all images into train(80%), validation(10%), test(10%) folders.
-5. make_prediction.ipynb： 對test dataset做預測，讀取model.h5、輸出預測結果、輸出confusion matrix圖、輸出accuracy
+3. Moving_img_to_train_test_val.ipynb： Split all images into train(80%), validation(10%), test(10%) folders.
+4. make_prediction.ipynb： 對test dataset做預測，讀取model.h5、輸出預測結果、輸出confusion matrix圖、輸出accuracy
