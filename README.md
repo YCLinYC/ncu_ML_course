@@ -20,3 +20,4 @@
 2. inception layers.txt： 查看inception_v3層數
 3. grab_plots_from_here.ipynb： 翻出來的舊程式，讀資料方式會占用大量RAM，可以copy繪圖
 4. Moving_img_to_train_test_val.ipynb： Split all images into train(80%), validation(10%), test(10%) folders.
+5. make_prediction.ipynb： 對test dataset做預測讀取model.h5、輸出預測結果、輸出confusion matrix圖、輸出accuracy
