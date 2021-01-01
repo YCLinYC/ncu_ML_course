@@ -16,7 +16,7 @@
 # 成果
 
 1. 只跑了2個epoch，validation loss還在下降、validation accuracy還有上升趨勢，但由於時間有限，沒有繼續跑更多epoch、甚至fine tuning  
-2. 最後成果是56% accuracy (隨便猜的話accuracy是1%)
+2. 最後成果是56% accuracy (有101種類別，隨便猜的話accuracy是1%)
 3. 歡迎參考 prediction_demo_apple_pie_only.ipynb ，裡面的圖片的正確標籤都是蘋果派，看看它預測成什麼食物  
 (如果跑出"Sorry, something went wrong. Reload?"，請按Reload幾次，可能跟裡面有100張蘋果派的圖有關)
 
