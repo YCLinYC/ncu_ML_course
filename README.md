@@ -11,8 +11,8 @@
 
 # 成果
 
-跑了2個epoch，loss還在下降，但由時間有限，沒有繼續跑更多epoch、甚至fine tuning  
-最後成果是56% accuracy
+跑了2個epoch，loss還在下降，但由於時間有限沒有繼續跑更多epoch、甚至fine tuning  
+最後成果是56% accuracy (隨便猜的話是accuracy是1%)
 
 # 準備方式
 
