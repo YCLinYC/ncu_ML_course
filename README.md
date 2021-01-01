@@ -13,7 +13,7 @@
 
 1. 只跑了2個epoch，loss還在下降、accuracy還有上升趨勢，但由於時間有限，沒有繼續跑更多epoch、甚至fine tuning  
 2. 最後成果是56% accuracy (隨便猜的話accuracy是1%)
-3. 歡迎參考 wrong_predictions.ipynb ，裡面的圖片的正確標籤都是蘋果派，看看它預測錯成什麼食物
+3. 歡迎參考 wrong_predictions.ipynb ，裡面的圖片的正確標籤都是蘋果派，看看它預測成什麼食物
 
 # 準備方式
 
