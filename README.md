@@ -1,4 +1,4 @@
-# 機器學習通識_期末報告
+# NCU GS4519 Introduction to machine learning: final project
 
 # 組員
 
